@@ -67,8 +67,9 @@ h2 {
   margin: 0;
 }
 
-.selected {
-  color: black !important;
+#player .selected,
+#computer .selected {
+  color: black;
 }
 
 .reset-icon {
